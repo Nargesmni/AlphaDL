@@ -1,0 +1,37 @@
+{
+  "job_id": "api_f9beea6ae9cf4faaac16330d",
+  "mode": "zip_split",
+  "file_url": "https://free-dl4.myalphadl.com/Nz_vcMuY7wuhFxwjnMRQGw/The.Testaments.S01E06.720p.FENiX.AlphaDL.mkv",
+  "suggested_filename": "The.Testaments.S01E06.720p.FENiX.AlphaDL.mkv",
+  "total_size_bytes": 455912089,
+  "created_at_utc": "2026-05-23T18:57:58.291950+00:00",
+  "zip_folder": "jobs/api_f9beea6ae9cf4faaac16330d/zip",
+  "zip_main_file": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.zip",
+  "zip_parts": [
+    {
+      "name": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z01",
+      "path": "jobs/api_f9beea6ae9cf4faaac16330d/zip/The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z01",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z02",
+      "path": "jobs/api_f9beea6ae9cf4faaac16330d/zip/The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z02",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z03",
+      "path": "jobs/api_f9beea6ae9cf4faaac16330d/zip/The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z03",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z04",
+      "path": "jobs/api_f9beea6ae9cf4faaac16330d/zip/The.Testaments.S01E06.720p.FENiX.AlphaDL_split.z04",
+      "size_bytes": 94371840
+    },
+    {
+      "name": "The.Testaments.S01E06.720p.FENiX.AlphaDL_split.zip",
+      "path": "jobs/api_f9beea6ae9cf4faaac16330d/zip/The.Testaments.S01E06.720p.FENiX.AlphaDL_split.zip",
+      "size_bytes": 78424971
+    }
+  ]
+}
